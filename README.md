@@ -61,16 +61,8 @@ npm start
 - The keyboard mapping is as follows:
   - White keys: A, S, D, F, G, H, J, K, L
   - Black keys: W, E, T, Y, U
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+- With FaceNav[https://www.facenav.org/] for accesibility. (Testing)
 
 ## Acknowledgments
 
-- Piano sounds from [source-of-your-piano-sounds]
-- Inspired by [your-inspiration-if-any]
+- Piano sounds from [https://freesound.org/people/GAMEDRIX974/packs/32285/]
