@@ -58,9 +58,6 @@ npm start
 
 - Use your computer keyboard to play the piano keys
 - Or click on the keys with your mouse
-- The keyboard mapping is as follows:
-  - White keys: A, S, D, F, G, H, J, K, L
-  - Black keys: W, E, T, Y, U
 - With FaceNav[https://www.facenav.org/] for accesibility. (Testing)
 
 ## Acknowledgments
