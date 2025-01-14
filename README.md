@@ -12,7 +12,7 @@ A web-based virtual piano application built with React that allows users to play
 
 ## Demo
 
-[Live Demo](https://github.com/user-attachments/assets/8c72ab28-d4c2-4efc-98a1-29f8cc28dc30) (Coming soon)
+[Live Demo](https://github.com/user-attachments/assets/8c72ab28-d4c2-4efc-98a1-29f8cc28dc30) 
 
 [Accesibility Demo](your-demo-link-here) (Coming soon)
 
